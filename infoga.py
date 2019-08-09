@@ -2,8 +2,7 @@
 # -*- coding:utf-8 -*- 
 #
 # @name   : Infoga - Email OSINT
-# @url    : http://github.com/m4ll0k
-# @author : Momo Outaadi (m4ll0k)
+# @url    : http://github.com/mkdirlove
 
 import sys
 import json
